@@ -26,6 +26,11 @@ header{
     height:100px;
     
 }
+.searchItem{
+    position:absolute;
+    float:right;
+    left:190px;
+}
 .search-bar-container img{
    padding: 0px 0px 0px 20px;
 }
