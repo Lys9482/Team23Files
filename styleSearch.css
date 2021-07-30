@@ -154,6 +154,7 @@ header{
 .yoga{
     float:left;
     position:absolute;
+    margin-left:120px;
 }
 .yoga1{
     position:relative;

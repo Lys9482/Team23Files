@@ -95,7 +95,7 @@ header{
     
 }
 .exercise{
-    padding-left: 180px;
+    padding-left: 155px;
     margin-left: 150px;
     height:300px;
     width:63%;
@@ -153,20 +153,23 @@ header{
 .map{
     position:absolute;
     bottom:-275px;
-    width:74%;
+    width:70%;
+    margin:10px;
+    padding-left:20px;
 }
 .location h4{
     position:absolute;
+    padding:10px;
     border:2px solid #59906C;
     color:white;
     background:#59906C;
     bottom:-350px;
-    border-radius:25px;
+    border-radius:20px;
 
 }
 .more-events{
     position:absolute;
-    bottom:-800px;
+    bottom:-400px;
 }
 .img1, .img2, .img3{
     position:absolute;
@@ -178,6 +181,77 @@ header{
 }
 .img3{
     left:300%;
+}
+.afternoon{
+    position:absolute;
+    text-align: left;
+    font-size:20px;
+    color:#2C6241;
+  
+    left:200px;
+    padding-bottom:-300px;
+    bottom:-675px;
+}
+.afternoonDate{
+    position:absolute;
+    text-align: left;
+    left:200px;
+    bottom:-700px;
+
+}
+.afternoonHost{
+    position:absolute;
+    text-align: left;
+    left:200px;
+    bottom:-725px;
+
+}
+.market{
+    position:absolute;
+    text-align: left;
+    font-size:20px;
+    color:#2C6241;
+    left:500px;
+    padding-left:50px;
+    bottom:-675px;
+}
+.marketDate{
+    position:absolute;
+    text-align: left;
+    padding-left:50px;
+    left:500px;
+    bottom:-700px;
+}
+.marketHost{
+    position:absolute;
+    text-align: left;
+    padding-left:50px;
+    left:500px;
+    bottom:-725px;
+}
+.volunteer{
+    position:absolute;
+    text-align: left;
+    font-size:20px;
+    color:#2C6241;
+    left:600px;
+    padding-left:300px;
+    bottom:-675px;
+}
+.volunteerDate{
+    position:absolute;
+    text-align: left;
+    padding-left:300px;
+    left:600px;
+    bottom:-700px;
+
+}
+.volunteerHost{
+    position:absolute;
+    text-align: left;
+    padding-left:300px;
+    left:600px;
+    bottom:-725px;
 }
 .overlay1, .overlay2,.overlay3{
     position:absolute;
@@ -194,12 +268,13 @@ header{
 }
 .overlay1{
     top:-10;
-    left:200px;
-    width:100%;
+    left:0px;
+    width:130%;
+    height:240px;
 }
 .overlay2{
     top:27px;
-    left:30px;
+    left:350px;
     width:130%;
     height:240px;
     

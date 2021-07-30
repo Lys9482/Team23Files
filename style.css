@@ -119,6 +119,22 @@ header{
     left:970px;
 
 }
+.friend{
+    position:absolute;
+    bottom:-50px;
+    text-align: center;
+    left:250px;
+}
+.career{
+    position:absolute;
+    bottom:-50px;
+    right:500px;
+}
+.moving{
+    position:absolute;
+    bottom:-50px;
+    right:100px;
+}
 
 .interest{
     position:absolute;
@@ -162,6 +178,76 @@ header{
 .img3{
     left:300%;
 }
+.volunteer{
+    position:relative;
+    text-align: left;
+    font-size:20px;
+    color:#2C6241;
+    padding-top:275px;
+    left:200px;
+    top:500px;
+}
+.volunteerDate{
+    position:relative;
+    text-align: left;
+    left:200px;
+    top:500px;
+
+}
+.volunteerHost{
+    position:relative;
+    text-align: left;
+    left:200px;
+    top:500px;
+
+}
+.hike{
+    position:relative;
+    text-align: left;
+    font-size:20px;
+    color:#2C6241;
+    left:500px;
+    padding-left:120px;
+    top:450px;
+}
+.hikeDate{
+    position:relative;
+    text-align: left;
+    padding-left:120px;
+    left:500px;
+    top:450px;
+}
+.hikeHost{
+    position:relative;
+    text-align: left;
+    padding-left:120px;
+    left:500px;
+    top:450px;
+}
+.fitness{
+    position:relative;
+    text-align: left;
+    font-size:20px;
+    color:#2C6241;
+    left:600px;
+    padding-left:425px;
+    top:375px;
+}
+.fitnessDate{
+    position:relative;
+    text-align: left;
+    padding-left:425px;
+    left:600px;
+    top:375px;
+
+}
+.fitnessHost{
+    position:relative;
+    text-align: left;
+    padding-left:425px;
+    left:600px;
+    top:375px;
+}
 .overlay1, .overlay2,.overlay3{
     position:absolute;
     width:275px;
@@ -177,7 +263,7 @@ header{
 }
 .overlay1{
     top:-10;
-    left:0;
+    left:400px;
 }
 .overlay2{
     top:27px;
